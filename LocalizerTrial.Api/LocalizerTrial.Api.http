@@ -1,0 +1,6 @@
+@LocalizerTrial.Api_HostAddress = http://localhost:5229
+
+GET {{LocalizerTrial.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalizerTrial.Api", "LocalizerTrial.Api\LocalizerTrial.Api.csproj", "{49DA7F3D-BE5E-4E80-9FAF-26F48097CFAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49DA7F3D-BE5E-4E80-9FAF-26F48097CFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49DA7F3D-BE5E-4E80-9FAF-26F48097CFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49DA7F3D-BE5E-4E80-9FAF-26F48097CFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49DA7F3D-BE5E-4E80-9FAF-26F48097CFAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
