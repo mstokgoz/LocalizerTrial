@@ -15,8 +15,6 @@ builder.Services.RegisterLocalizationOptions();
 
 var app = builder.Build();
 
-app.RegisterEndpoints();
-
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
